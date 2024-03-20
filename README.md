@@ -1,1 +1,1 @@
-# WanderlustBeershop
+# Maui Beershop
